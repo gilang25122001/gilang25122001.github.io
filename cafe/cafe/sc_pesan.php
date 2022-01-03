@@ -114,7 +114,7 @@ if ($C!="pr"){
 echo"<script>alert('$A Pesanan Anda Sedang Dipesan');window.location='pemesanan.php';</script>";}
 
 else {
-		echo"<script>alert('$A Sudah Tersimpan');window.location='pemesanan.php';</script>";};
+echo"<script>alert('$A Sudah Tersimpan');window.location='pemesanan.php';</script>";};
 
 
 
